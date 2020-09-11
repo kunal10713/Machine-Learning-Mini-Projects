@@ -1,2 +1,2 @@
 # Machine-Learning-Mini-Projects
-This Repository conatains all the Mini ML projrcts I have worked on.
+This Repository contains all the Mini ML projects I have worked on.
