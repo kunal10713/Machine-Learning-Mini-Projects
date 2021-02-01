@@ -18,9 +18,13 @@ We'll work with the Ecommerce Customers csv file from the company. It has Custom
 
  	                    Coeffecient
 Avg. Session Length	  25.981550
+
 Time on App	          38.590159
+
 Time on Website	      0.190405
-Length of Membership	61.279097
+
+Length of Membership	 61.279097
+
 
 #### Interpreting the coefficients:
 
