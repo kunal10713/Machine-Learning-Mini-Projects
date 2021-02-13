@@ -29,6 +29,11 @@ However one way to try to do it is using something known as the elbow method:
   
   3. The idea of the Elbow method is to choose the K at which the SSE decreases abruptly.
   
+  This produces an elbow effect in the graph as you can see in the following picture.
+
+  ![Elbow method](https://user-images.githubusercontent.com/55705913/107849237-f053d700-6e1f-11eb-980f-3bb1db4859d0.PNG)
+
+  
   
   
 
